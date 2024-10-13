@@ -34,7 +34,7 @@ class Examples {
         System.out.println(" " + s3.equals(s4));
 
         s2 = s2.toUpperCase();
-        System.out.print(s1.equals(s2));
+        System.out.print(s1==s2);
         System.out.println(" " + s1.equals(s2));
     }
 
