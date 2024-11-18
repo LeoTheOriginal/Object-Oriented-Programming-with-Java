@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Object Oriented Programming with Java.iml" filepath="$PROJECT_DIR$/.idea/Object Oriented Programming with Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab02/lab02.iml" filepath="$PROJECT_DIR$/lab02/lab02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab03/lab03.iml" filepath="$PROJECT_DIR$/lab03/lab03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab04/lab04.iml" filepath="$PROJECT_DIR$/lab04/lab04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab05/lab05.iml" filepath="$PROJECT_DIR$/lab05/lab05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab06/lab06.iml" filepath="$PROJECT_DIR$/lab06/lab06.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab1/lab1.iml" filepath="$PROJECT_DIR$/lab1/lab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab2/lab2.iml" filepath="$PROJECT_DIR$/lab2/lab2.iml" />
     </modules>
